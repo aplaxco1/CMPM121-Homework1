@@ -10,11 +10,15 @@ give the scene some extra detail. The majority of these objects were obtained
 from the Unity Asset Store. There was no particular source that inspired
 me to create this scene, rather I had primarily just wanted to create a
 scene you may find in real life, and design the interior of a potential
-bedroom using the unity game engine. The main character used in this scene is
-....
+bedroom using the unity game engine. The main character used in this scene for
+the first and third person camera view is the model of an orange cat standing 
+on top of the bed object in the scene.
 
 
 Here is a list of objects/Materials utilized in this scene with links to their sources:
+
+Main Playable Character Object:
+- Cat: https://free3d.com/3d-model/cat-v1--522281.html
 
 Objects:
 - Walls and Floor: Primitive Cube GameObject
