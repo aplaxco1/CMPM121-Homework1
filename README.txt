@@ -33,7 +33,14 @@ Objects:
 - Coffee Cup - https://assetstore.unity.com/packages/3d/props/food/coffee-cup-pbr-224789
 - Crystal - https://assetstore.unity.com/packages/3d/props/stylized-crystal-77275
 - Printer - https://assetstore.unity.com/packages/3d/props/electronics/printer-lowpoly-4996
-- 
+- Potted Plant - https://assetstore.unity.com/packages/3d/props/furniture/hdrp-furniture-pack-153946
+- Succulent Plant - https://assetstore.unity.com/packages/3d/props/furniture/hdrp-furniture-pack-153946
+- Rug - https://assetstore.unity.com/packages/3d/props/furniture/hdrp-furniture-pack-153946
+- Picture Frames - https://assetstore.unity.com/packages/3d/props/interior/picture-frames-with-photos-106907
+- Books - https://assetstore.unity.com/packages/3d/props/interior/qa-books-115415
+- Plastic Bins - https://assetstore.unity.com/packages/3d/props/tools/plastic-bins-211038
+- Clock - https://assetstore.unity.com/packages/3d/props/interior/clock-4250
+- Dragon Statue - https://assetstore.unity.com/packages/3d/dragon-statue-59053
 
 Materials:
 - Modern Brick Wall Material - https://freepbr.com/materials/modern-brick1/
