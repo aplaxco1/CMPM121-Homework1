@@ -41,10 +41,16 @@ Objects:
 - Plastic Bins - https://assetstore.unity.com/packages/3d/props/tools/plastic-bins-211038
 - Clock - https://assetstore.unity.com/packages/3d/props/interior/clock-4250
 - Dragon Statue - https://assetstore.unity.com/packages/3d/dragon-statue-59053
+- Light Swtich and Power Outlet - https://assetstore.unity.com/packages/3d/props/free-suburban-homewares-asset-pack-142878
+- Guitar - https://assetstore.unity.com/packages/3d/props/flamenco-classical-guitar-156903
+- Paper Crane - https://assetstore.unity.com/packages/3d/props/origami-paper-crane-16630
+- Ballpoint Pens - https://assetstore.unity.com/packages/3d/props/origami-paper-crane-16630
+- Boots - https://assetstore.unity.com/packages/3d/props/clothing/female-ankle-boots-photoscanned-159578
 
 Materials:
 - Modern Brick Wall Material - https://freepbr.com/materials/modern-brick1/
 - Wooden Floor Material - https://assetstore.unity.com/packages/2d/textures-materials/wood/wooden-floor-materials-150564
+- Skybox - https://assetstore.unity.com/packages/2d/textures-materials/sky/fantasy-skybox-free-18353
 
 Note:
 - The ChangeCameraButton.cs script that is used in this project was obtained from the
