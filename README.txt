@@ -15,7 +15,7 @@ the first and third person camera view is the model of an orange cat standing
 on top of the bed object in the scene.
 
 
-Here is a list of objects/Materials utilized in this scene with links to their sources:
+Here is a list of Objects/Materials utilized in this scene with links to their sources:
 
 Main Playable Character Object:
 - Cat - https://free3d.com/3d-model/cat-v1--522281.html
@@ -45,3 +45,7 @@ Objects:
 Materials:
 - Modern Brick Wall Material - https://freepbr.com/materials/modern-brick1/
 - Wooden Floor Material - https://assetstore.unity.com/packages/2d/textures-materials/wood/wooden-floor-materials-150564
+
+Note:
+- The ChangeCameraButton.cs script that is used in this project was obtained from the
+CMPM 121 Course Syallbus.

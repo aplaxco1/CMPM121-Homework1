@@ -5,7 +5,7 @@ using UnityEngine;
 public class CameraMovement : MonoBehaviour
 {
 
-    private float cameraSpeed = 0.01f;
+    public float cameraSpeed;
     private float cam;
     private bool xPanningRight = true;
     private bool zPanningRight = true;
