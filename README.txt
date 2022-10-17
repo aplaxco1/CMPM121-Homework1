@@ -15,6 +15,12 @@ the first and third person camera view is the model of an orange cat standing
 on top of the bed object in the scene.
 
 
+Here's a Link to a Google Drive hosted video of this project, both the Scene Editor view,
+and in the Play mode, which shows the scene's UI features, and each of
+its different camera views, including one with scripted movement:
+https://drive.google.com/file/d/1Qe88yXKHjtb1gWqDFfrePbAIy6STNMkv/view?usp=sharing
+
+
 Here is a list of Objects/Materials utilized in this scene with links to their sources:
 
 Main Playable Character Object:
